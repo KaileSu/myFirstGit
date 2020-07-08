@@ -1,1 +1,1 @@
-Console.log("Hellow world, Git")
+Console.log(""I caused a merge conflict, Git")
