@@ -1,4 +1,6 @@
-Console.log("Hellow world, Git")
-function myMultiply(x,y,x) {
-    return x*y*z;
+Console.log("Hellow world, Git");
+Console.log(myadd(5+10));
+
+function myadd(x,y) {
+    return (x+y);
 }
